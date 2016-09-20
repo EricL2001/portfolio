@@ -1105,7 +1105,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #18bc9c;
+  color: #2c3e50;
   text-decoration: underline;
 }
 a:focus {
@@ -3476,7 +3476,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #18bc9c;
+  color: #18bcc;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4563,7 +4563,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+  color: #;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
