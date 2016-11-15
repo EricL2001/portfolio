@@ -8,6 +8,10 @@ body {
     overflow-x: hidden;
 }
 
+
+/* ---- particles.js container ---- */ 
+#particles-js{ position:absolute; width: 100%; height: 100%; background-color: #587369; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; }
+
 p {
     font-size: 20px;
 }
@@ -101,8 +105,8 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
-    font-weight: 700;
+    font-size: 1.5em;
+    font-weight: 400;
 }
 
 header .intro-text .skills {
